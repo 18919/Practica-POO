@@ -15,7 +15,7 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo desde POO grupo 8");
-        System.out.println("XD");
+        System.out.println("XDDDDDDDDDDDDDDD");
         //x: ese simbolo nos indica que el parametro x se esta llenando con la cadena que ingresamos
         
         
