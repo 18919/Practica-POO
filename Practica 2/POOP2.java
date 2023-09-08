@@ -6,7 +6,7 @@ package poop2;
 
 /**
  *
- * @author Zaid
+ * @author Cano Vazquez Axel Zaid
  */
 public class POOP2 {
 
