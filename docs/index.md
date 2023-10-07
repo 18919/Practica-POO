@@ -7,8 +7,8 @@
 <body>
   <h1>Generated Documentation</h1>
   <ul>
-    <li><a href="Practica-POO/docs/docs1/index.html">Java POO</a></li>
-    <li><a href="Practica-POO/docs/docs2/index.html">POOP 5</a></li>
+    <li><a href="docs1/index.html">Java POO</a></li>
+    <li><a href="docs2/index.html">POOP 5</a></li>
   </ul>
 </body>
 </html>
