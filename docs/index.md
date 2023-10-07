@@ -1,8 +1,8 @@
-<!DOCTYPE HTML>
+<Practicas de Programacion Orientada a Objetos Grupo 08>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Generated Documentation</title>
+  <title>Documentos Javadoc</title>
 </head>
 <body>
   <h1>Generated Documentation</h1>
