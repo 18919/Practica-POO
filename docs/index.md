@@ -10,9 +10,9 @@
     <li><a href="docs1/index.html">POO P6</a></li>
     <li><a href="docs2/index.html">POO P5</a></li>
     <li><a href="docs3/index.html">POO P4</a></li>
-    <li><a href="docs 4/index.html">POO P3</a></li>
-    <li><a href="docs 5/index.html">POO P2</a></li>
-    <li><a href="docs 6/index.html">POO P1</a></li>
+    <li><a href="docs4/index.html">POO P3</a></li>
+    <li><a href="docs5/index.html">POO P2</a></li>
+    <li><a href="docs6/index.html">POO P1</a></li>
   </ul>
 </body>
 </html>
