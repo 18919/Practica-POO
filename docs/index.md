@@ -7,6 +7,7 @@
 <body>
   <h1>Documentos Javadoc</h1>
   <ul>
+    <li><a href="docs10/index.html">POO P10</a></li>
     <li><a href="docs9/Actividad_mapamental/index.html">POO P9 Pagina actividad extra</a></li>
     <li><a href="docs9/Diagrama/index.html">POO P9 Pagina ejercicio laboratorio</a></li>
     <li><a href="docs8/index.html">POO P8</a></li>
