@@ -1,0 +1,181 @@
+<mxfile host="app.diagrams.net" modified="2023-11-26T18:57:24.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="d3LrEORl_n4ajTbw2-Wa" version="22.1.4" type="device">
+  <diagram name="Página-1" id="XqUEl8WFbwALs_dcZVW6">
+    <mxGraphModel dx="1793" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wsqtjr--wUTignDdoqw4-1" value="Pedido a pizzería" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="470" width="800" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-1" target="wsqtjr--wUTignDdoqw4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="280" as="sourcePoint" />
+            <mxPoint x="810" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wsqtjr--wUTignDdoqw4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="480" as="sourcePoint" />
+            <mxPoint x="500" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wsqtjr--wUTignDdoqw4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="680" as="sourcePoint" />
+            <mxPoint x="690" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-7" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wsqtjr--wUTignDdoqw4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="80" as="sourcePoint" />
+            <mxPoint x="500" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-1" target="wsqtjr--wUTignDdoqw4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="880" as="sourcePoint" />
+            <mxPoint x="510" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-9" value="Cliente" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="55" y="157.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-10" value="Repartidor" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="60" y="767.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-12" value="Cocinero" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="60" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-13" value="Recepcionista" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="60" y="345" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-14" target="wsqtjr--wUTignDdoqw4-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="180" as="sourcePoint" />
+            <mxPoint x="320" y="173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-16" value="Marcar a la pizzeria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="148.75" width="80" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-16" target="wsqtjr--wUTignDdoqw4-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="180" as="sourcePoint" />
+            <mxPoint x="390" y="172.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="470" width="800" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-22" target="wsqtjr--wUTignDdoqw4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-22" value="Mencionar promociones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300.5" y="337.5" width="102" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-24" target="wsqtjr--wUTignDdoqw4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-24" value="Mencionar el menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="332.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-25" target="wsqtjr--wUTignDdoqw4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-25" target="wsqtjr--wUTignDdoqw4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="158.75" width="25" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-28" value="Cliente" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="65" y="167.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-29" value="¿Preguntar por promociones?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="107.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-33" value="Si" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="383" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-36" value="No" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="137.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-37" target="wsqtjr--wUTignDdoqw4-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-37" value="Tomar pedido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="332.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-39" target="wsqtjr--wUTignDdoqw4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-39" value="Decirle al cocinero la pizza a preparar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="333.75" width="100" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-43" target="wsqtjr--wUTignDdoqw4-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-43" value="Escoger ingredientes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="548.75" width="100" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-44" target="wsqtjr--wUTignDdoqw4-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-44" value="Cocinar pizza" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="548.75" width="100" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-48" target="wsqtjr--wUTignDdoqw4-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-48" value="Entregar pedido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="756.25" width="100" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-50" target="wsqtjr--wUTignDdoqw4-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-50" value="Cobrar pizza" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="756.25" width="100" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-52" target="wsqtjr--wUTignDdoqw4-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-52" target="wsqtjr--wUTignDdoqw4-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-52" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1127.5" y="158.75" width="25" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-54" value="¿Pagar en efectivo?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="116.25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-58" value="Pagar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="146.25" width="100" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-64" target="wsqtjr--wUTignDdoqw4-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-64" value="Preparar terminal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="756.25" width="100" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-69" value="No" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1097.5" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-70" value="Si" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="393" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsqtjr--wUTignDdoqw4-73" target="wsqtjr--wUTignDdoqw4-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-73" value="Pagar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="146.25" width="100" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wsqtjr--wUTignDdoqw4-74" value="Entregar ticket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="756.25" width="100" height="52.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
