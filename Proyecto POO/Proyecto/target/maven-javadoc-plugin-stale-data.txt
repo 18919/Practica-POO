@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/tasle/Downloads/Proyecto (2)/Proyecto/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/tasle/Downloads/Proyecto (2)/Proyecto/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Proyecto 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Proyecto 1.0-SNAPSHOT API'
+com.mycompany.proyecto
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\src\main\java = 1701140360492
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\allclasses-index.html = 1701226730982
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\allpackages-index.html = 1701226730985
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\copy.svg = 1701226731025
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\element-list = 1701226730917
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\help-doc.html = 1701226731018
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\index-all.html = 1701226731010
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\index.html = 1701226731015
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\member-search-index.js = 1701226730992
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\module-search-index.js = 1701226730987
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\overview-tree.html = 1701226730968
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\package-search-index.js = 1701226730989
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\script.js = 1701226731023
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\search-page.js = 1701226731032
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\search.html = 1701226731012
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\search.js = 1701226731029
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\stylesheet.css = 1701226731021
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\tag-search-index.js = 1701226730994
+C:\Users\tasle\Downloads\Proyecto (2)\Proyecto\target\site\apidocs\type-search-index.js = 1701226730991
